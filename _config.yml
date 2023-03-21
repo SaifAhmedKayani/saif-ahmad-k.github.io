@@ -79,8 +79,8 @@ content:
         sub_title: Implementation and Support Engineer
         caption: October 2021 - Present
         description: | # this will include new lines to allow paragraphs
-            - Integrate and install solutions on the customers test and production environments.
-			- Develop new application integrations and provide daily operational support.
+            		- Integrate and install solutions on the customers test and production environments.
+	    		- Develop new application integrations and provide daily operational support.
 			- Performed hands-on technical implementation, troubleshooting, and remediation on complex client projects.
 			- Troubleshoot and diagnose customer reported issues on the different levels of solutions (i.e. Database, Application, Network, Communication, and Integration Interfaces Levels). 
 			- Writing and reviewing testing plans and creating test plan automation procedures. 
